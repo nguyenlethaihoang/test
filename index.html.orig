@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<<<<<<< HEAD
+<h1>khanh dau bui</h1>
+=======
+<h1>khanh bede</h1>
+>>>>>>> name1
+<p>Ngôn ngữ HTML dùng để tạo cấu trúc cho một website</p>
+</body>
+</html>
